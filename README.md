@@ -1,14 +1,14 @@
 # My Data Project
 
-This is a data analysis project.
+ hello my name is rookie This is a data analysis project.
 
-## Project Structure
+##  Structure
 
 ```
 my_data_project/
 ├── .gitignore
 ├── README.md
-└── notebooks/         # For Jupyter notebooks
+└── notebooks/         # For Jupyter notebooks this is for  you  
 ```
 
 ## Setup
@@ -26,7 +26,8 @@ my_data_project/
 
 ## Usage
 
-Start Jupyter Notebook:
+Start Jupyter Notebook: i hope you like it  
 ```
-jupyter notebook
+Thank you 
+from :- Rookie
 ```
